@@ -371,25 +371,24 @@ footer {
     }
 
     .tabs {
-        position: relative;
-        top: -10px;
+        position: absolute;
+        top: 105px;
     }
 
     #tab1 {
-        right: 355px;
+        left: 215px;
         border-right: 1px solid #dddddd;
-        padding-right: 25px;
-        margin-right: 15px;
+        padding-right: 55px;
     }
     
     #tab2 {
-        left: -180px;
+        left: 290px;
         border-right: 1px solid #dddddd;
-        padding-right: 25px;
+        padding-right: 70px;
     }
     
     #tab3 {
-        left: -30px;
+        left: 365px;
         padding-left: 10px;
     }
 
