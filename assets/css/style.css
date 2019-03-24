@@ -174,7 +174,7 @@ footer {
     float: right;
     position: relative;
     top: 165px;
-    left: 45px
+    right: -45px
 }
 
 #port3 {
